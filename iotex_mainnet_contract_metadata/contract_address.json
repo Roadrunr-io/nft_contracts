@@ -1,0 +1,18 @@
+{
+  "LocalMultiSig": {
+    "address": "0x7599cFa8dfE7242629FB9128764F5F6FEF1c4Ac0",
+    "height": 18463616
+  },
+  "RRNFTv2_2": {
+    "address": "0x7e55C3af89acC2efab7BC21fb90E24D27BEBD789",
+    "height": 18464017
+  },
+  "CrateMinter_v1": {
+    "address": "0x39ed57b86F5853B3F154ED4141Df0B83B4B09556",
+    "height": 18464036
+  },
+  "TesseractMinter_v1": {
+    "address": "0xD0Ec41bC7534f57A0E06d8d9709D761D9814148c",
+    "height": 18464047
+  }
+}
